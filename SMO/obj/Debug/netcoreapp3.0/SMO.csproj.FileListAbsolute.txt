@@ -1,0 +1,12 @@
+C:\Users\nuejk\Desktop\labs\mips\mod-task07-server\SMO\bin\Debug\netcoreapp3.0\SMO.exe
+C:\Users\nuejk\Desktop\labs\mips\mod-task07-server\SMO\bin\Debug\netcoreapp3.0\SMO.deps.json
+C:\Users\nuejk\Desktop\labs\mips\mod-task07-server\SMO\bin\Debug\netcoreapp3.0\SMO.runtimeconfig.json
+C:\Users\nuejk\Desktop\labs\mips\mod-task07-server\SMO\bin\Debug\netcoreapp3.0\SMO.runtimeconfig.dev.json
+C:\Users\nuejk\Desktop\labs\mips\mod-task07-server\SMO\bin\Debug\netcoreapp3.0\SMO.dll
+C:\Users\nuejk\Desktop\labs\mips\mod-task07-server\SMO\bin\Debug\netcoreapp3.0\SMO.pdb
+C:\Users\nuejk\Desktop\labs\mips\mod-task07-server\SMO\obj\Debug\netcoreapp3.0\SMO.AssemblyInfoInputs.cache
+C:\Users\nuejk\Desktop\labs\mips\mod-task07-server\SMO\obj\Debug\netcoreapp3.0\SMO.AssemblyInfo.cs
+C:\Users\nuejk\Desktop\labs\mips\mod-task07-server\SMO\obj\Debug\netcoreapp3.0\SMO.csproj.CoreCompileInputs.cache
+C:\Users\nuejk\Desktop\labs\mips\mod-task07-server\SMO\obj\Debug\netcoreapp3.0\SMO.dll
+C:\Users\nuejk\Desktop\labs\mips\mod-task07-server\SMO\obj\Debug\netcoreapp3.0\SMO.pdb
+C:\Users\nuejk\Desktop\labs\mips\mod-task07-server\SMO\obj\Debug\netcoreapp3.0\SMO.genruntimeconfig.cache

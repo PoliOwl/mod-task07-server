@@ -1,0 +1,13 @@
+C:\Users\nuejk\source\repos\SMO\SMO\bin\Debug\netcoreapp3.1\SMO.exe
+C:\Users\nuejk\source\repos\SMO\SMO\bin\Debug\netcoreapp3.1\SMO.deps.json
+C:\Users\nuejk\source\repos\SMO\SMO\bin\Debug\netcoreapp3.1\SMO.runtimeconfig.json
+C:\Users\nuejk\source\repos\SMO\SMO\bin\Debug\netcoreapp3.1\SMO.runtimeconfig.dev.json
+C:\Users\nuejk\source\repos\SMO\SMO\bin\Debug\netcoreapp3.1\SMO.dll
+C:\Users\nuejk\source\repos\SMO\SMO\bin\Debug\netcoreapp3.1\SMO.pdb
+C:\Users\nuejk\source\repos\SMO\SMO\obj\Debug\netcoreapp3.1\SMO.csprojAssemblyReference.cache
+C:\Users\nuejk\source\repos\SMO\SMO\obj\Debug\netcoreapp3.1\SMO.AssemblyInfoInputs.cache
+C:\Users\nuejk\source\repos\SMO\SMO\obj\Debug\netcoreapp3.1\SMO.AssemblyInfo.cs
+C:\Users\nuejk\source\repos\SMO\SMO\obj\Debug\netcoreapp3.1\SMO.csproj.CoreCompileInputs.cache
+C:\Users\nuejk\source\repos\SMO\SMO\obj\Debug\netcoreapp3.1\SMO.dll
+C:\Users\nuejk\source\repos\SMO\SMO\obj\Debug\netcoreapp3.1\SMO.pdb
+C:\Users\nuejk\source\repos\SMO\SMO\obj\Debug\netcoreapp3.1\SMO.genruntimeconfig.cache
